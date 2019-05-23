@@ -1,6 +1,6 @@
 # Wikipeida Word2Vec
 
-This repository uses gensim to train word2vec from wiki dump, especially for wiki
+This repository uses gensim to train word2vec from wiki dump, especially for Chinese Wikipedia data
 
 1 Down wiki data from [Wikimedia Downloads](https://dumps.wikimedia.org/backup-index.html)
 
