@@ -1,4 +1,4 @@
-# Wikipeida Word2Vec
+# Wikipedia Word2Vec
 
 This repository uses gensim to train word2vec from wiki dump, especially for Chinese Wikipedia data
 
