@@ -48,10 +48,10 @@ class WikiSentenceGenerator:
 
 
 def main(argv):
-  zhwiki_dir = argv[1]
+  wiki_dir = argv[1]
   output_path = argv[2]
 
-  sentences = WikiSentenceGenerator(zhwiki_dir)
+  sentences = WikiSentenceGenerator(wiki_dir)
 
   # TODO: first build vocab
   model = gensim.models.Word2Vec(
