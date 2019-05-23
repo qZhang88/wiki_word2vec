@@ -24,6 +24,5 @@ python wiki_word2vec.py path/to/extract_dir-or-convert_dir path/to/word2vec
 ```
 
 
-TODO
--[ ] Shell we create an embedding for <UNK>?
--[ ] 
+#### TODO
+- [ ] Shell we create an embedding for <UNK>?
