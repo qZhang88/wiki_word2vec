@@ -4,9 +4,6 @@ import sys
 import glob
 import logging
 
-import gensim
-from opencc import OpenCC
-
 from tokenization import BasicTokenizer
 
 
